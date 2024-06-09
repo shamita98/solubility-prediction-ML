@@ -3,7 +3,7 @@
 
 This work is based on the research article of John S. Delaney entitled **ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure**  which focuses on the application Linear Regression to predict the solubility of molecules which is an important physiochemical property to consider in drug design and development.
  
-The source code is inspired from this [YouTube video] (https://www.youtube.com/watch?v=VXFFHHoE1wk&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP&index=10).
+The source code is inspired from this [YouTube video](https://www.youtube.com/watch?v=VXFFHHoE1wk&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP&index=10).
 
 The following modifications are made in this work :
 + The relationship between X variable and Y is visualized through scatter plots and correlation analysis.<br>
